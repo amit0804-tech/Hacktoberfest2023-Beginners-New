@@ -1,3 +1,12 @@
+
+#### Name: [Amit Nalawade](https://github.com/amit0804-tech)
+
+- Place: Navi Mumbai, India
+- Bio: Front end developer
+- Affiliation : Apex Professional University
+- GitHub: [Amit Nalawade](https://github.com/amit0804-tech)
+
+
 #### Name: [Akanksha Rani](https://github.com/AkankshaAI)
 
 - Place: New Delhi,India
